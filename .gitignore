@@ -1,0 +1,40 @@
+#example:
+# you can skip this first one if it is not already excluded by prior patterns
+#!application/
+#application/*
+#!application/language/
+#application/language/*
+#!application/language/gr/
+
+
+plinder_backend/
+
+# byte-compiled / optimized / DLL files
+plinder_backend/__pycache__/
+plinder_backend/*.py[cod]
+
+# tests and coverage
+plinder_backend/*.pytest_cache
+plinder_backend/.coverage
+
+# database & logs
+plinder_backend/*.db
+plinder_backend/*.log
+
+# venv
+plinder_backend/env
+plinder_backend/venv
+
+# other
+
+
+# sphinx docs 
+
+
+# javascript
+
+#Visual Code Studio Path
+plinder_backend/.vscode
+
+#Pycharm path
+plinder_backend/.idea
