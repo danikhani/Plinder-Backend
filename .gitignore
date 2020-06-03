@@ -7,7 +7,6 @@
 #!application/language/gr/
 
 
-plinder_backend/
 
 # byte-compiled / optimized / DLL files
 plinder_backend/__pycache__/
