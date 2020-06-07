@@ -62,3 +62,6 @@ class ProposalsApiView(generics.ListAPIView):
             nickname=finder.nickname
         )
         return queryset
+
+
+#tryyy
