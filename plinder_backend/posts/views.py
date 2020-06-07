@@ -17,7 +17,7 @@ class PostDetail(generics.RetrieveAPIView):
     serializer_class = PostSerializer
 
 
-# for Implementing CRUD
-class PostDetail(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Post.objects.all()
-    serializer_class = PostSerializer
+# for Implementing CRUD ( it has every request from start)
+#class PostDetail(generics.RetrieveUpdateDestroyAPIView):
+#    queryset = Post.objects.all()
+#    serializer_class = PostSerializer
