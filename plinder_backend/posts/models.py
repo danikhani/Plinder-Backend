@@ -1,19 +1,14 @@
 from django.db import models
 
+# posts/models.py
+from django.db import models
 
-# Create your models here.
+
 class Post(models.Model):
-    class Meta:
-        db_table = 'user_profile_data'
+    title = models.CharField(max_length=50)
+    content = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
 
-    name = models.CharField(max_length=255)
-    title = models.CharField(max_length=60)
-    content = models.TextField(max_length=1024)
-    time_created = models.DateTimeField(auto_now=True, auto_now_add=False)
-    time_updated = models.DateTimeField(auto_now=False, auto_now_add=True)
-
-    def get_content(self):
-        return self.content + ' belongs to this post: ' + self.name
-
-    def __repr__(self):
-        return self.name + ' is added.'
+    def __str__(self):
+        return self.title

@@ -1,13 +1,12 @@
+# posts/serializers.py
 from rest_framework import serializers
-from .models import Post
+from . import models
 
-'''we defined a ModelSerializer for our puppy model,
- validating all the mentioned fields. 
- In short, if you have a one-to-one relationship between your API endpoints and your models 
- - which you probably should if you’re creating a RESTful API - 
- then you can use a ModelSerializer to create a Serializer.'''
 
+# it is a model serializer
 class PostSerializer(serializers.ModelSerializer):
+
     class Meta:
-        model = Post
-        fields = ('name', 'title', 'content', 'time_created', 'time_updated')
+        fields = ('id', 'title', 'content', 'created_at', 'updated_at',)
+        model = models.Post
+
