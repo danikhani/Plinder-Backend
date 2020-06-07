@@ -100,7 +100,7 @@ WSGI_APPLICATION = 'pl_api.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'plinder2',
+        'NAME': 'plinder_db2',
         'USER': 'plinder',
         'PASSWORD': 'plinder',
         'HOST': '127.0.0.1',

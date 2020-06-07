@@ -108,7 +108,6 @@ def update_account_view(request):
 		return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
-
 # LOGIN
 # Response: https://gist.github.com/mitchtabian/8e1bde81b3be342853ddfcc45ec0df8a
 # URL: http://127.0.0.1:8000/api/account/login
