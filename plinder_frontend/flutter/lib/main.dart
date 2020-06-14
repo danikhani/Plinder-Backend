@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import './app.dart';
+import './utils/colors.dart';
 
 void main() {
   runApp(MyApp());
