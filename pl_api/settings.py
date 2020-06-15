@@ -36,7 +36,6 @@ ALLOWED_HOSTS = [
 INSTALLED_APPS = [
     'posts',
     'account',
-    'findplayer',
 
 
     'django.contrib.admin',
@@ -48,6 +47,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'rest_framework.authtoken',
+    #sdsds
 ]
 
 AUTH_USER_MODEL = 'account.Account'
