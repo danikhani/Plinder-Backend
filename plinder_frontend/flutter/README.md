@@ -1,10 +1,19 @@
-# plinderfrontend
+# Plinder Frontend
 
 Frontend for the project Plinder
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Installation
+
+In the command terminal, run the following commands:
+
+    $ git clone
+    $ cd
+    $ flutter packages get
+    $ flutter run
+
+#### Tipps
 
 A few resources to get you started if this is your first Flutter project:
 
