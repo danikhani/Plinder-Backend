@@ -4,3 +4,4 @@ from . models import FindPlayer
 
 # registering post to admin
 admin.site.register(FindPlayer)
+#try
