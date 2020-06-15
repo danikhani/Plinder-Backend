@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:features" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:features" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:backend/features/findplayer" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ead49dcf-cfac-4a92-be04-bf9ec0b461d6" name="Default Changelist" comment="trying to make new branches" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1czAqsrJHywmuiXj8IPvlBA7a9C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/posts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dania\OneDrive\Dokumente\Dokuments\Projects\Plinder\plinder_git\plinder_backend\posts" />
+      <recent name="C:\Users\dania\OneDrive\Dokumente\Dokuments\Projects\Plinder\plinder_git\plinder_backend\account" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="plinder_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dania\.conda\envs\plinder_back3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead49dcf-cfac-4a92-be04-bf9ec0b461d6" name="Default Changelist" comment="" />
+      <created>1591521241856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591521241856</updated>
+      <workItem from="1591521244533" duration="12099000" />
+      <workItem from="1591551712821" duration="3343000" />
+      <workItem from="1591563654819" duration="2005000" />
+      <workItem from="1591773143682" duration="775000" />
+      <workItem from="1591880730538" duration="414000" />
+      <workItem from="1591881414481" duration="1198000" />
+      <workItem from="1591951162383" duration="303000" />
+      <workItem from="1592128489552" duration="477000" />
+      <workItem from="1592216512468" duration="971000" />
+      <workItem from="1592219694520" duration="3572000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed the project for a fresh start. Its initial commit before makemigrations">
+      <created>1591522328015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591522328016</updated>
+    </task>
+    <task id="LOCAL-00002" summary="super user is not defined yet. But everything works- initial commit with makemigrations">
+      <created>1591522779233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591522779233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="super user is not defined yet. But everything works- initial commit with makemigrations">
+      <created>1591522794005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591522794005</updated>
+    </task>
+    <task id="LOCAL-00004" summary="working status before importing account future">
+      <created>1591526988591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591526988592</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added account api.">
+      <created>1591533712730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591533712731</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added read me file.">
+      <created>1591533916991</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591533916991</updated>
+    </task>
+    <task id="LOCAL-00007" summary="account is working.">
+      <created>1591534465145</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591534465145</updated>
+    </task>
+    <task id="LOCAL-00008" summary="account is working.">
+      <created>1591534814737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591534814737</updated>
+    </task>
+    <task id="LOCAL-00009" summary="post is working">
+      <created>1591538483480</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591538483480</updated>
+    </task>
+    <task id="LOCAL-00010" summary="posts have got testetd">
+      <created>1591541234795</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591541234796</updated>
+    </task>
+    <task id="LOCAL-00011" summary="find players template added">
+      <created>1591553988665</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591553988666</updated>
+    </task>
+    <task id="LOCAL-00012" summary="try 2">
+      <created>1591554236742</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591554236742</updated>
+    </task>
+    <task id="LOCAL-00013" summary="trying to make new branches">
+      <created>1592222319782</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592222319782</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="backend/features/findplayer" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed the project for a fresh start. Its initial commit before makemigrations" />
+    <MESSAGE value="super user is not defined yet. But everything works- initial commit with makemigrations" />
+    <MESSAGE value="working status before importing account future" />
+    <MESSAGE value="added account api." />
+    <MESSAGE value="added read me file." />
+    <MESSAGE value="account is working." />
+    <MESSAGE value="post is working" />
+    <MESSAGE value="posts have got testetd" />
+    <MESSAGE value="find players template added" />
+    <MESSAGE value="try 2" />
+    <MESSAGE value="trying to make new branches" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to make new branches" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591522424259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591522424259" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1591541074783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541074783" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1592128544825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591535615962" />
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592128544825" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592222803812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222803812" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541458300" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591881144083" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592222803812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222803812" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541458300" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591881144082" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592222803812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222803812" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541458300" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591881144082" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592222803812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222803812" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541458300" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591881144082" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592222337493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222337493" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541266025" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591554276273" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592222308739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222308739" />
+    <state x="407" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1592222090810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="125" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222090810" />
+    <state x="464" y="201" key="git4idea.merge.GitMergeDialog" timestamp="1592222197428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="201" key="git4idea.merge.GitMergeDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222197428" />
+    <state x="464" y="201" key="git4idea.merge.GitMergeDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541289878" />
+    <state x="464" y="201" key="git4idea.merge.GitPullDialog" timestamp="1592222156930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592222156930" />
+    <state x="464" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591541391063" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/plinder_backend$manage.coverage" NAME="manage Coverage Results" MODIFIED="1592222762182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

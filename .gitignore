@@ -9,20 +9,20 @@
 
 
 # byte-compiled / optimized / DLL files
-plinder_backend/__pycache__/
-plinder_backend/*.py[cod]
+__pycache__/
+*.py[cod]
 
 # tests and coverage
-plinder_backend/*.pytest_cache
-plinder_backend/.coverage
+*.pytest_cache
+.coverage
 
 # database & logs
-plinder_backend/*.db
-plinder_backend/*.log
+*.db
+*.log
 
 # venv
-plinder_backend/env
-plinder_backend/venv
+env
+venv
 
 # other
 
