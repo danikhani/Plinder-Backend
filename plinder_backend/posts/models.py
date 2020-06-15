@@ -8,10 +8,10 @@ from django.db.models.signals import post_delete, pre_save
 from django.dispatch import receiver
 
 def upload_location(instance, filename, **kwargs):
-	file_path = 'post/{author_id}/{title}-{filename}'.format(
-			author_id=str(instance.author.id), title=str(instance.title), filename=filename
-		)
-	return file_path
+    file_path = 'post/{author_id}/{title}-{filename}'.format(
+        author_id=str(instance.author.id), title=str(instance.title), filename=filename
+    )
+    return file_path
 
 # here take care of data_published,updated and author null=True, blank=True:
 # https://stackoverflow.com/questions/37540744/django-datetime-default-value-in-migrations

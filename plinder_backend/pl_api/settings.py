@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'posts',
     'account',
+    'findplayer',
 
 
     'django.contrib.admin',
