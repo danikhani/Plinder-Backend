@@ -25,7 +25,10 @@ SECRET_KEY = 'gta%hp@s7!cm(fkdg9^senl!+gn9rnijqiut3pp#f3v%t2o+()'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '10.0.2.2',
+    '127.0.0.1',
+]
 
 
 # Application definition
